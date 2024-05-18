@@ -1,6 +1,5 @@
 public class Tree {
-    public void tree() {
-        int rows = 5;
+    public void createTree(int rows) {
 
         for (int i = 1; i <= rows; ++i) {
             for (int j = 1; j <= i; ++j) {

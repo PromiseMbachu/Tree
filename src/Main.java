@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         Tree proj = new Tree();
-        proj.tree();
+        proj.createTree(5);
     }
 }
